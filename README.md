@@ -1,30 +1,76 @@
-# Chicken Translator Design
+[Project Name] 🎯
+Basic Details
+Team Name: [Name]
+Team Members
+Team Lead: [Name] - [College]
+Member 2: [Name] - [College]
+Member 3: [Name] - [College]
+Project Description
+[2-3 lines about what your project does]
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+The Problem (that doesn't exist)
+[What ridiculous problem are you solving?]
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/hssain243s-projects/v0-chicken-translator-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/JnBbe7KeDDz)
+The Solution (that nobody asked for)
+[How are you solving it? Keep it fun!]
 
-## Overview
+Technical Details
+Technologies/Components Used
+For Software:
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+[Languages used]
+[Frameworks used]
+[Libraries used]
+[Tools used]
+For Hardware:
 
-## Deployment
+[List main components]
+[List specifications]
+[List tools required]
+Implementation
+For Software:
 
-Your project is live at:
+Installation
+[commands]
 
-**[https://vercel.com/hssain243s-projects/v0-chicken-translator-design](https://vercel.com/hssain243s-projects/v0-chicken-translator-design)**
+Run
+[commands]
 
-## Build your app
+Project Documentation
+For Software:
 
-Continue building your app on:
+Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
 
-**[https://v0.dev/chat/projects/JnBbe7KeDDz](https://v0.dev/chat/projects/JnBbe7KeDDz)**
+![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
-## How It Works
+![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Diagrams
+![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+
+For Hardware:
+
+Schematic & Circuit
+![Circuit](Add your circuit diagram here) Add caption explaining connections
+
+![Schematic](Add your schematic diagram here) Add caption explaining the schematic
+
+Build Photos
+![Components](Add photo of your components here) List out all components shown
+
+![Build](Add photos of build process here) Explain the build steps
+
+![Final](Add photo of final product here) Explain the final build
+
+Project Demo
+Video
+[Add your demo video link here] Explain what the video demonstrates
+
+Additional Demos
+[Add any extra demo materials/links]
+
+Team Contributions
+[Name 1]: [Specific contributions]
+[Name 2]: [Specific contributions]
+[Name 3]: [Specific contributions]
