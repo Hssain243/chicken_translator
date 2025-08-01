@@ -1,5 +1,5 @@
-@import 'tailwindcss';
-@import 'tw-animate-css';
+@import "tailwindcss";
+@import "tw-animate-css";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -120,4 +120,15 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Custom playful font styles */
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&family=Kalam:wght@300;400;700&display=swap");
+
+.font-comic {
+  font-family: "Comic Neue", cursive;
+}
+
+.font-handwriting {
+  font-family: "Kalam", cursive;
 }
