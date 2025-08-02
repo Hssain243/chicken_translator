@@ -1,12 +1,12 @@
+<img width="3188" height="1202" alt="472981058-517ad8e9-ad22-457d-9538-a9e62d137cd7" src="https://github.com/user-attachments/assets/b7370a75-d182-4ec3-9229-8bf281950433" />
 Team Name: Hazards
+
 
 Team Members:
 
 Team Lead: Mohammed Hussain – [Adi Shankara Institute of Engineering and Technology]
 
 Member 2: Athul T Siju - [Adi Shankara Institute of Engineering and Technology]
-
-Member 3: [Name] – [College]
 
 
 
