@@ -1,76 +1,33 @@
-[Project Name] 🎯
-Basic Details
-Team Name: [Name]
-Team Members
-Team Lead: [Name] - [College]
-Member 2: [Name] - [College]
-Member 3: [Name] - [College]
-Project Description
-[2-3 lines about what your project does]
+Team Name: Hazards
 
-The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Team Members:
 
-The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Team Lead: Mohammed Hussain – [Your College Name]
 
-Technical Details
-Technologies/Components Used
+Member 2: [Name] – [College]
+
+Member 3: [Name] – [College]
+
+(Fill in member details as needed)
+
+📝 Project Description
+Chicken Translator is a fun and quirky web app that pretends to decode chicken clucks into surprisingly deep (and completely fake) messages. Upload any "cluck" and receive hilarious poultry wisdom in return.
+
+🐔 The Problem (that doesn't exist)
+Chickens are constantly clucking, but no one understands what they’re trying to say. This unspoken poultry philosophy is a tragedy of modern society.
+
+😅 The Solution (that nobody asked for)
+We built an app that uses a random quote generator (inspired by GPT-like absurdity) to turn any chicken sound into a profound, fake translation. Finally, chickens have a voice!
+
+💻 Technical Details
+🔧 Technologies/Components Used
 For Software:
+Languages Used: Python , react , javascript , next.js
 
-[Languages used]
-[Frameworks used]
-[Libraries used]
-[Tools used]
-For Hardware:
 
-[List main components]
-[List specifications]
-[List tools required]
-Implementation
-For Software:
+Libraries Used: random, streamlit , 
 
-Installation
-[commands]
-
-Run
-[commands]
-
-Project Documentation
-For Software:
-
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
-
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
-
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+Tools Used: VS Code, GitHub
 
 For Hardware:
-
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
-
-Project Demo
-Video
-[Add your demo video link here] Explain what the video demonstrates
-
-Additional Demos
-[Add any extra demo materials/links]
-
-Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+N/A – No chickens were harmed in this cloud-based fun.
